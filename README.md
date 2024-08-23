@@ -67,8 +67,8 @@ If you encounter any issues, here are some common troubleshooting steps:
 - **Check for updates**: Ensure Xcode and any dependencies are up to date.
 
 - **Contact the developers**:
-  - Sara Ortiz Drada (iOS Developer) [saraodrada@gmail.com](saraodrada@gmail.com)
-  - Yesid Lopez (Machine Learning Engineer) [yesid.leonardo.lopez@hotmail.com](yesid.leonardo.lopez@hotmail.com) 
+  - Sara Ortiz Drada (iOS Developer) [saraodrada@gmail.com](mailto:saraodrada@gmail.com)
+  - Yesid Lopez (Machine Learning Engineer) [yesid.leonardo.lopez@hotmail.com](mailto:yesid.leonardo.lopez@hotmail.com) 
 
 ---
 
